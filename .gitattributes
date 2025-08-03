@@ -1,3 +1,4 @@
 .tar.gz filter=lfs diff=lfs merge=lfs -text
 *.tar.gz filter=lfs diff=lfs merge=lfs -text
 ta_cloud.tar.gz filter=lfs diff=lfs merge=lfs -text
+podman-backup.tar.gz filter=lfs diff=lfs merge=lfs -text
